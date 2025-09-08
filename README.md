@@ -21,5 +21,5 @@ Sou um estudante de Ciência da Computação dedicado a me profissionalizar como
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Topiinho&theme=blue-green)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Topiinho&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor-Pinho-Alcantara&theme=blue-green)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Pinho-Alcantara&theme=blue-green)
